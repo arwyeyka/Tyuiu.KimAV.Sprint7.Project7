@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <StartupObject>Tyuiu.KAV.Sprint7.Project.V7.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Tyuiu.KAV.Sprint7.Project.V7.Lib\Tyuiu.KAV.Sprint7.Project.V7.Lib.csproj" />
+  </ItemGroup>
+</Project>

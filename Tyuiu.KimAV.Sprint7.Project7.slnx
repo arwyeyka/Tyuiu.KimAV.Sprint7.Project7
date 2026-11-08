@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Project/">
+    <Project Path="Tyuiu.KAV.Sprint7.Project.V7.Lib/Tyuiu.KAV.Sprint7.Project.V7.Lib.csproj" />
+    <Project Path="Tyuiu.KAV.Sprint7.Project.V7.Test/Tyuiu.KAV.Sprint7.Project.V7.Test.csproj" />
+    <Project Path="Tyuiu.KAV.Sprint7.Project.V7/Tyuiu.KAV.Sprint7.Project.V7.csproj" />
+  </Folder>
+</Solution>

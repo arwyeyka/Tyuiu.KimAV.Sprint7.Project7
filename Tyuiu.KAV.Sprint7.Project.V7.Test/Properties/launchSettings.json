@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Profile 1": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\User\\source\\repos\\Tyuiu.KimAV.Sprint7.Project7\\Tyuiu.KAV.Sprint7.Project.V7"
+    }
+  }
+}
